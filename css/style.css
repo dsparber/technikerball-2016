@@ -1119,3 +1119,17 @@ input[type="submit"]:hover{
 	background-color: #8A0808;
 	color: white;
 }
+
+input.error{
+	border-color: #8A0808;
+	background-color: #fff4f4
+}
+
+img.sponsor{
+	width: 20em;
+	margin-left: 2.5em;
+	margin-right: 2.5em;
+	margin-bottom: 2.5em;
+	vertical-align: middle;
+	max-width: calc(100% - 5em);
+}

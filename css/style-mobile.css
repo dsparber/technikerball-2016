@@ -66,6 +66,12 @@
 			font-size: 2em;
 		}
 
+		header h3
+		{
+			font-size: 1.5em;
+		}
+
+
 		header .byline
 		{
 			font-size: 1.2em;
@@ -185,6 +191,10 @@
     padding-top: 2em;
 }
 
+#logo h3 {
+    font-size: 1.5em;
+}
+
 #logo h1{
 	display: none;
 }
@@ -264,4 +274,4 @@
 		margin: 0;
 		padding: 1em 1em;
 		font-size: 1.2em;
-	}		
+	}

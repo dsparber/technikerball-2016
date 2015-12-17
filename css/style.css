@@ -798,7 +798,7 @@
 			color: #FFF;
 		}
 	
-		#logo h1, #logo h2
+		#logo h1, #logo h2, #logo h3
 		{
 			display: block;
 			text-decoration: none;
@@ -814,6 +814,9 @@
 
 		#logo h2{
 		font-size: 4em;
+		}
+#logo h3{
+		font-size: 3em;
 		}
 
 		#logo span
@@ -1059,7 +1062,7 @@ h2{
 	padding-left: 50px;
 }
 
-#titleBar h2{
+#titleBar h2, #titleBar h3{
 	display: none;
 }
 

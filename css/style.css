@@ -1136,3 +1136,10 @@ img.sponsor{
 	vertical-align: middle;
 	max-width: calc(100% - 5em);
 }
+
+#copyright .container p, #copyright .container a{
+	color: lightgray;
+}
+img.sitzplan {
+	width: 70%
+}

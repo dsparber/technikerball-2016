@@ -1143,3 +1143,9 @@ img.sponsor{
 img.sitzplan {
 	width: 70%
 }
+
+p .fa:before {
+	margin-right: 5px;
+	margin-left: 5px;
+	font-size: 1em;
+}
